@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerkarakas/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omerkarakas/testing/issues"
+  },
+  "homepage": "https://github.com/omerkarakas/testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
